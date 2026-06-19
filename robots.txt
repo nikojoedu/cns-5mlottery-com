@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nikojoedu.github.io/cns-5mlottery-com/sitemap.xml
